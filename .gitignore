@@ -1,0 +1,9 @@
+# Hassas konfigürasyon dosyasını yoksay
+config.py
+
+# Python sanal ortam klasörünü yoksay
+venv/
+
+# Python cache dosyalarını yoksay
+__pycache__/
+*.pyc
