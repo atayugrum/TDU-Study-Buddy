@@ -100,10 +100,10 @@ pip install RPi.GPIO adafruit-circuitpython-dht python-telegram-bot requests
 # Öffne die Datei config.py mit einem Texteditor
 # Füge deinen Telegram-Bot-Token und deine Chat-ID ein
 
-
+```
 ## 5. Ausführung
 
-```bash
+
 # Stelle sicher, dass die virtuelle Umgebung aktiv ist
 python StudyBuddy.py
 💡 Hinweis: Ersetze StudyBuddy.py durch den tatsächlichen Dateinamen deiner Hauptdatei.
